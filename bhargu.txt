@@ -1,1 +1,2 @@
-thia is a develop text file
+thia is a develop text file
+this is new line 
